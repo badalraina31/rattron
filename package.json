@@ -43,7 +43,7 @@
     "jquery": "^3.3.1",
     "latest-tweets": "^1.0.3",
     "node-cipher": "^6.3.2",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.4.16",
     "pcap": "git+https://github.com/mranney/node_pcap.git",
     "twitter": "^1.7.1"
   }
